@@ -7,6 +7,6 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ValeryChapman&show_icons=true&theme=tokyonight" alt="ValeryChapman"/></p>
 <!--radical, merko, tokyonight-->
 
-### Other
+<!--### Other
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ValeryChapman" alt="ValeryChapman"/></p>
-<!--radical, merko, tokyonight-->
+radical, merko, tokyonight-->

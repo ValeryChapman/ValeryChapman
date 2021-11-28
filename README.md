@@ -1,6 +1,6 @@
 ### Hi there, I'm Valera 👋
 
-## I'm a Middle Backend Developer
+## I'm a Back-end Developer
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning: Python & Go
 

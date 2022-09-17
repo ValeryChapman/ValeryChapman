@@ -1,9 +1,7 @@
-### Hi there, I'm Valera 👋
-
-## I'm a Back-end Developer
-- 🌱 I’m currently working on myself
-- 🐳 I love writing code in Python & Go
-- 🔥 Mac OS fan
+# Valery Parkhomenko 👋
+- 💻 Core Stack: Python/Django, Go. Mainly focused on Backend & DevOps.
+- 🔥 Interested in Blockchain & Web 3.0
+- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/valeryparkhomenko/) | [Instagram](https://www.instagram.com/valery.parkhomenko/) | [Telegram](https://t.me/ValeryParkhomenko)
 
 ### Languages and Tools:
 

@@ -5,14 +5,12 @@
 
 ### Languages and Tools:
 
-<!--[![HTML5](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)-->
-<!--[![CSS3](https://img.shields.io/badge/CSS3-grey.svg?style=for-the-badge&logo=CSS3)](#)-->
-[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
 [![Go](https://img.shields.io/badge/-GoLang-grey.svg?style=for-the-badge&logo=Go)](#)
 [![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)](#)
+[![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
 [![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=Django)](#)
 [![Falcon](https://img.shields.io/badge/-Falcon-grey.svg?style=for-the-badge&logo=Falcon)](#)
-<!--[![Flask](https://img.shields.io/badge/-Flask-grey.svg?style=for-the-badge&logo=Flask)](#)-->
+[![FastAPI](https://img.shields.io/badge/-FastAPI-grey.svg?style=for-the-badge&logo=FastAPI)](#)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)](#)
 [![MONGODB](https://img.shields.io/badge/-MongoDB-grey.svg?style=for-the-badge&logo=mongodb)](#)
@@ -28,4 +26,3 @@
 [![MACOS](https://img.shields.io/badge/MacOS-grey.svg?style=for-the-badge&logo=Macos)](#)
 [![GITHUB](https://img.shields.io/badge/-Github-grey.svg?style=for-the-badge&logo=Github)](#)
 [![GITLAB](https://img.shields.io/badge/-Gitlab-grey.svg?style=for-the-badge&logo=Gitlab)](#)
-[![VSCODE](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=VisualStudioCode)](#)

@@ -1,7 +1,7 @@
 # Valery Parkhomenko 👋
-- 💻 Core Stack: Python (Django ~ FastAPI), Go (Fiber). Mainly focused on Backend & DevOps.
+- 💻 Core Stack: Python, Go. Mainly focused on Backend, DevOps & Mobile.
 - 🔥 Interested in Blockchain & Web 3.0
-- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/valeryparkhomenko/) | [Telegram](https://t.me/ValeryParkhomenko)
+- 👨‍💻 [Telegram](https://t.me/ValeryParkhomenko)
 
 ### Languages and Tools:
 
